@@ -2,6 +2,7 @@
 public class Produto {
 
 	// Classe de objetos que guarda informacoes sobre produtos e servicos oferecidos no estacionamento
+	// Produtos e servicos sao: lavagem, estacionamento, troca de oleo, etc.
 
 	private double peso;
 	private double altura;
